@@ -178,4 +178,3 @@ if (score>=11)
     
 else 
 {console.log("Did you watch the anime ??")}
-  
